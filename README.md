@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Profile views](https://komarev.com/ghpvc/?username=xpioneer)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpioneer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpioneer&layout=compact" align="top" alt="Beginner" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xpioneer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=xpioneer&show_icons=true&theme=radical" align="top" alt="Beginner" style="margin-top: 24px" />
+
